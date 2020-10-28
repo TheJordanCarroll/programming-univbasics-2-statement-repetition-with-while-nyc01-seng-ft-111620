@@ -1,4 +1,5 @@
 count = 10
-while (condition) do
+while count >= 1 do
   
+  count -=
 end
